@@ -19,11 +19,11 @@ O projeto está incompleto e faz parte de um trabalho de extensão da faculdade.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/gestor-clientes-pedidos.git
+   git clone https://github.com/ClezerSimoes/GCP-Simples.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd gestor-clientes-pedidos
+   cd GPC-Simples
    ```
 3. Execute o projeto:
    ```bash
